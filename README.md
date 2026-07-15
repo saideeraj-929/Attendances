@@ -53,6 +53,8 @@ To run this application, you only need **Python 3.x** installed on your system. 
 *(Tkinter is included by default in standard Python installations!)*
 
 ---
+---SCREENSHOT---
+![Attendances screenshot](https://github.com/saideeraj-929/Attendances/blob/2950d4116f959500b7fb1af9ef8818219785e176/Attendance%20system%20screenshot.png)
 
 ## ⚙️ How to Run
 
